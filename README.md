@@ -1,6 +1,6 @@
 Wedding-Website
 ===============
-It's a website.
+Here's the website with info on our wedding.
 
 To-do
 ===============
@@ -15,4 +15,5 @@ To-do
 - [ ] Capitalize Sunset Lake, Alton, Inn on Main, Wolfeboro (or, change fonts entirely)
 - [ ] Edit all writing
 - [ ] Registry info (to come later)
+- [ ] Optional: trackers?
 - [ ] Optional: Add map to Inn on Main
