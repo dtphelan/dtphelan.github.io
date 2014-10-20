@@ -1,18 +1,3 @@
-Wedding-Website
+dtphelan's GitHub Page
 ===============
-It's a website.
-
-To-do
-===============
-- [ ] Remove ceremony and reception times
-- [ ] Make/add favicon
-- [ ] Ceremony and reception write-up
-- [ ] Groomsmen and Kate write-ups
-- [ ] "Meet the" bridesmaids/groomsmen font change
-- [ ] Bridal party scroll-over change
-- [ ] Change year number font
-- [ ] Update downloadable directions/map of events
-- [ ] Capitalize Sunset Lake, Alton, Inn on Main, Wolfeboro (or, change fonts entirely)
-- [ ] Edit all writing
-- [ ] Registry info (to come later)
-- [ ] Optional: Add map to Inn on Main
+Here's a website hosted through GitHub Pages. Currently, it's playing home to the "Coming Soon" version of my wedding website, which can be seen on the work-in-progress branch. That'll be pulled over here when it's ready.
