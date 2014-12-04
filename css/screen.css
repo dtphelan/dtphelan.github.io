@@ -25,7 +25,7 @@
 /* CONFIG */
 /* sprites */
 /* line 258, heading/*.png */
-.heading-sprite, .heading-add-to-our-story, .heading-amazon, .heading-americas-finest-city, .heading-book-by-phone, .heading-book-online, .heading-bridesmaides, .heading-crate-and-barrel, .heading-festivities, .heading-groomsmen, .heading-history-2007, .heading-history-2008, .heading-history-2009, .heading-history-2010, .heading-history-2011, .heading-history-2012, .heading-history-2013, .heading-hotel-indigo, .heading-love-small, .heading-registry, .heading-rest-your-head, .heading-to-do, .heading-to-eat, .heading-west-elm {
+.heading-sprite, .heading-add-to-our-story, .heading-header, .heading-amazon, .heading-americas-finest-city, .heading-book-by-phone, .heading-book-online, .heading-bridesmaides, .heading-crate-and-barrel, .heading-festivities, .heading-groomsmen, .heading-history-2007, .heading-history-2008, .heading-history-2009, .heading-history-2010, .heading-history-2011, .heading-history-2012, .heading-history-2013, .heading-hotel-indigo, .heading-love-small, .heading-registry, .heading-rest-your-head, .heading-to-do, .heading-to-eat, .heading-west-elm {
   background: url('../img/heading-s0fb21cda38-edit.png') no-repeat;
 }
 
@@ -94,8 +94,7 @@
 
 /* line 60, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .heading-header {
-  background: url('../img/coming-soon.png');
-  background-repeat: no-repeat;
+  background-position: 0 0;
   height: 530px;
   width: 905px;
 }
@@ -221,15 +220,15 @@
 
 /* line 60, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .heading-to-do {
-  background-position: 0 -3967px;
-  height: 30px;
+  background-position: 0 -3962px;
+  height: 40px;
   width: 197px;
 }
 
 /* line 60, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
 .heading-to-eat {
-  background-position: 0 -4007px;
-  height: 30px;
+  background-position: 0 -4000px;
+  height: 40px;
   width: 203px;
 }
 
