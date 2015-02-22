@@ -4,9 +4,9 @@ Here's the website with info on our wedding.
 
 To-do
 ===============
-- [ ] Groomsmen and Kate write-ups
-- [ ] Edit all writing
-- [ ] Registry info (to come later)
+- [x] Groomsmen and Kate write-ups
+- [x] Edit all writing
+- [x] Registry info (to come later)
 - [x] Change bridesmaids pictures
 - [x] Remove ceremony and reception times
 - [x] Make/add favicon
